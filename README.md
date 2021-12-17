@@ -1,4 +1,4 @@
-# bigint
+# bigint -- A library for big integer
 
 ## Import
 
